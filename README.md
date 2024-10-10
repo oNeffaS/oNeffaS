@@ -6,7 +6,7 @@
 ---
 
 ## About Me
-I am a mod developer and creator focused on the game **7 Days to Die**. If you've played my mods, like **NeffaS' Mining & Craft**, you've already gotten a taste of what I can do!
+I am an apprentice in creating mods focused on the game **7 Days to Die**. If you've played my mods, like **NeffaS' Mining & Craft**, you've already gotten a taste of what I can do!
 
 Outside of the gaming world, I am a professional in **graphic design and video editing** with over 25 years of experience, working with **Photoshop**, **CorelDRAW**, **Premiere**, and I also have basic knowledge of **After Effects**. My creative background complements my projects, always aiming for visually impactful and well-polished results.
 

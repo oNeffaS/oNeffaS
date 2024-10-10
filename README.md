@@ -31,6 +31,7 @@ I'm a digital survivor, always looking to improve my skills and create tools for
 - **Game Design:** Mechanics creation, gameplay balancing
 - **3D Modeling:** Basic modding tools
 - **Graphic Design and Video Editing:** Photoshop, CorelDRAW, Premiere, After Effects (basic)
+- **Music Production and Audio Editing:** Yamaha Steinberg Cubase
 
 ---
 
